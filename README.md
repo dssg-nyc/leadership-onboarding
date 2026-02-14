@@ -1,4 +1,6 @@
 # Data Diplomats for Nonprofits Onboarding
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/38556470-be25-45bc-a480-4ef489674055" />
+
 
 Welcome to the Spring 2026 Cohort!
 
